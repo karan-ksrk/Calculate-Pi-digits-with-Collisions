@@ -40,14 +40,3 @@
 
 
 
-<a href="https://www.patreon.com/amitmerchant">
-	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
-
-## You may also like...
-
-- [GGOG](https://github.com/karan-ksrk) - A app
-- [GGGG](https://github.com/karan-ksrk) - A app
-
-
-> GitHub [@karan-ksrk](https://github.com/karan-ksrk) &nbsp;&middot;&nbsp;
